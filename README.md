@@ -1,5 +1,7 @@
 # Alibaba Cloud Ops MCP Server
 
+> **Note**: This is a fork of the original project. Original repository: [aliyun/alibaba-cloud-ops-mcp-server](https://github.com/aliyun/alibaba-cloud-ops-mcp-server)
+
 [![GitHub stars](https://img.shields.io/github/stars/aliyun/alibaba-cloud-ops-mcp-server?style=social)](https://github.com/aliyun/alibaba-cloud-ops-mcp-server)
 
 [中文版本](./README_zh.md)

@@ -1,5 +1,7 @@
 # Alibaba Cloud Ops MCP Server
 
+> **注意**: 这是原项目的一个分支版本。原始仓库地址: [aliyun/alibaba-cloud-ops-mcp-server](https://github.com/aliyun/alibaba-cloud-ops-mcp-server)
+
 [![GitHub stars](https://img.shields.io/github/stars/aliyun/alibaba-cloud-ops-mcp-server?style=social)](https://github.com/aliyun/alibaba-cloud-ops-mcp-server)
 
 [English README](./README.md)
